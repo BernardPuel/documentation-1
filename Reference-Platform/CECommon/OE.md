@@ -1,6 +1,6 @@
 ## OpenEmbedded and Yocto
 
-This page provides instructions to get started with OpenEmbedded and the Yocto Project. It aims at being generic for any board support.
+This page provides instructions to get started with OpenEmbedded and the Yocto Project. It tries (when possible) to be generic for any board supported.
 The board diversity should be addressed through dedicated BSP layer then MACHINE choice.
 
 # Introduction
