@@ -12,7 +12,7 @@ This wiki is not an introduction on OpenEmbedded or Yocto Project. If you are no
 
 In this wiki, we assume that the reader is familiar with basic concepts of OpenEmbedded.
 
-The support for any board is available in the dedicated BSP Layers. These layers have been tested with OpenEmbedded Core layer, and are expected to work with any other standard layers and of course any OpenEmbedded based distributions.
+The support for a dedicated board is available in the dedicated BSP Layer. These layers have been tested with OpenEmbedded Core layer, and are expected to work with any other standard layers and of course any OpenEmbedded based distributions.
 
 The Linux kernel used for these boards is the Reference Platform Kernel (RPK). The graphic stack is based on mesa:
 * using the freedreno driver for Dragonboard 410c
